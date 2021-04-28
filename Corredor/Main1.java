@@ -14,7 +14,7 @@ import supermercado_hilos.Customer;
  */
 public class Main {
     /**
-     * método principal que ejecuta el programa haciendo el llamado a las respectivas clases y métodos, así como la creación y gestión de los hilos
+     * método principal que ejecuta el programa haciendo el llamado a las respectivas clases y métodos. En este caso se realiza con un solo hilo
      * @param args 
      */
     public static void main(String[] args) {
